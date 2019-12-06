@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# axiomatic[dev] by Jameson Stone
 
-You can use the [editor on GitHub](https://github.com/jstone28/jstone28.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Profiles
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[personal gitlab](https://gitlab.com/jstone28)
 
-### Markdown
+[opensource](https://gitlab.com/sailr/opensource)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[github](https://github.com/jstone28)
 
-```markdown
-Syntax highlighted code block
+## Projects
 
-# Header 1
-## Header 2
-### Header 3
+[Jib](https://gitlab.com/sailr/opensource/jib)
 
-- Bulleted
-- List
+A quick way for programmatically creating Kubernetes manifests with Kustomize
 
-1. Numbered
-2. List
+[bulkhead](https://gitlab.com/sailr/opensource/bulkhead)
 
-**Bold** and _Italic_ and `Code` text
+An API gateway with [built in] exponential backoff for distributed systems
 
-[Link](url) and ![Image](src)
-```
+[tf-R](https://gitlab.com/sailr/opensource/tf-r)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Declarative state reconciliation model enforced by a control loop
 
-### Jekyll Themes
+[signlr](https://gitlab.com/sailr/opensource/signlr)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jstone28/jstone28.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[C]reate, [V]alidate, [U]pdate, and [D]elete license management service
 
-### Support or Contact
+[scout](https://gitlab.com/sailr/opensource/scout)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Minimalist GitOps operator for Kubernetes
+
+[beacon](https://gitlab.com/sailr/opensource/beacon)
+
+Declarative tracking of events, metrics, and logs for Kubernetes applications
+
+[rig](https://gitlab.com/sailr/opensource/rig)
+
+Registry git-sha tagging and kubectl [ensured] deploy
+
+[kit](https://gitlab.com/sailr/opensource/kit)
+
+Portable CI/CD Implementation
+
+## Blogs
+
+Current [Blog](blog/index.md)
+
+*Previous Work*
+[CI/CD: An Analogy](https://sailr.co/blog/ci-cd-analogy/)
