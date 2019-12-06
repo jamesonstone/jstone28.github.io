@@ -56,4 +56,4 @@ Github/Gitlab: jstone28
 
 LinkedIn: [jameson](https://www.linkedin.com/in/jameson-stone-66b521196)
 
-*resume available upon request*
+*resume available upon [request](jameson@stone.tc)*
