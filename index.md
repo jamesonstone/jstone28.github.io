@@ -1,14 +1,10 @@
-# axiomatic[dev]
-
-by Jameson Stone
-
 ## Profiles
 
-[personal gitlab](https://gitlab.com/jstone28)
+[gitlab/jstone28](https://gitlab.com/jstone28)
 
-[opensource](https://gitlab.com/sailr/opensource)
+[sailr/opensource](https://gitlab.com/sailr/opensource)
 
-[github](https://github.com/jstone28)
+[github/jstone28](https://github.com/jstone28)
 
 ## Projects
 
@@ -55,6 +51,9 @@ Current [Blog](blog/index.md)
 ## Contact
 
 Email: jameson AT stone DOT tc
+
 Github/Gitlab: jstone28
+
 LinkedIn: [jameson](https://www.linkedin.com/in/jameson-stone-66b521196)
 
+*resume available upon request*
