@@ -1,4 +1,6 @@
-# axiomatic[dev] by Jameson Stone
+# axiomatic[dev]
+
+by Jameson Stone
 
 ## Profiles
 
@@ -47,4 +49,12 @@ Portable CI/CD Implementation
 Current [Blog](blog/index.md)
 
 *Previous Work*
+
 [CI/CD: An Analogy](https://sailr.co/blog/ci-cd-analogy/)
+
+## Contact
+
+Email: jameson AT stone DOT tc
+Github/Gitlab: jstone28
+LinkedIn: [jameson](https://www.linkedin.com/in/jameson-stone-66b521196)
+
