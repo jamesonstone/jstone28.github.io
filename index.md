@@ -44,7 +44,7 @@
 
 Current [Blog](blog/index.md)
 
-*Previous Work*
+*Previous Work:*
 
 [CI/CD: An Analogy](https://sailr.co/blog/ci-cd-analogy/)
 
