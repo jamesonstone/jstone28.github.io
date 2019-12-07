@@ -56,4 +56,4 @@ Github/Gitlab: jstone28
 
 LinkedIn: [jameson](https://www.linkedin.com/in/jameson-stone-66b521196)
 
-*resume available upon [request](jameson@stone.tc)*
+*resume available upon [request](mailto:jameson@stone.tc?subject=[Axiomatic[Dev]]%20Resume%20Request)*
