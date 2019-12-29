@@ -1,5 +1,3 @@
-# Axiomatic Blog
-
 An Inquiry Into Complexity.
 
 ## Table of Contents

@@ -1,10 +1,10 @@
-## Profiles
+## Blogs
 
-[gitlab/jstone28](https://gitlab.com/jstone28)
+Current [Blog](blog/index.md)
 
-[sailr/opensource](https://gitlab.com/sailr/opensource)
+*Previous Work:*
 
-[github/jstone28](https://github.com/jstone28)
+[CI/CD: An Analogy](https://sailr.co/blog/ci-cd-analogy/)
 
 ## Projects
 
@@ -40,13 +40,13 @@
 
 *Portable CI/CD Implementation*
 
-## Blogs
+## Profiles
 
-Current [Blog](blog/index.md)
+[gitlab/jstone28](https://gitlab.com/jstone28)
 
-*Previous Work:*
+[sailr/opensource](https://gitlab.com/sailr/opensource)
 
-[CI/CD: An Analogy](https://sailr.co/blog/ci-cd-analogy/)
+[github/jstone28](https://github.com/jstone28)
 
 ## Contact
 
