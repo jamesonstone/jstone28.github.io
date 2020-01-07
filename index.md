@@ -34,11 +34,11 @@ Current [Blog](blog/index.md)
 
 [kit](https://gitlab.com/sailr/opensource/kit)
 
+*Portable CI/CD Implementation*
+
 [orpheus](https://gitlab.com/sailr/opensource/orpheus)
 
 *Sound Sharing Enabled.*
-
-*Portable CI/CD Implementation*
 
 ## Profiles
 
