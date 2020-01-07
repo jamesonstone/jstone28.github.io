@@ -2,10 +2,6 @@
 
 Current [Blog](blog/index.md)
 
-*Previous Work:*
-
-[CI/CD: An Analogy](https://sailr.co/blog/ci-cd-analogy/)
-
 ## Projects
 
 [Jib](https://gitlab.com/sailr/opensource/jib)
@@ -37,6 +33,10 @@ Current [Blog](blog/index.md)
 *Registry git-sha tagging and kubectl [ensured] deploy*
 
 [kit](https://gitlab.com/sailr/opensource/kit)
+
+[orpheus](https://gitlab.com/sailr/opensource/orpheus)
+
+*Sound Sharing Enabled.*
 
 *Portable CI/CD Implementation*
 
