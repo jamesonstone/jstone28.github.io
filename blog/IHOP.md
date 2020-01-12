@@ -1,4 +1,6 @@
-# What an IHOP Can Teach About Good Team Culture
+# What an IHOP Can Teach About Team Culture
+
+![ihop](../images/IHOP.png)
 
 **What can an IHOP teach us about team dynamics and team culture?** *A lot, actually.*
 
