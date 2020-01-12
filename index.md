@@ -4,7 +4,7 @@ Current [Blog](blog/index.md)
 
 ## Projects
 
-[Jib](https://gitlab.com/sailr/opensource/jib)
+[jib](https://gitlab.com/sailr/opensource/jib)
 
 *A quick way for programmatically creating Kubernetes manifests with Kustomize*
 
