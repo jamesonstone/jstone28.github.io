@@ -38,7 +38,7 @@ Current [Blog](blog/index.md)
 
 [orpheus](https://gitlab.com/sailr/opensource/orpheus)
 
-*Sound Sharing Enabled.*
+*Portable Storage With Git.*
 
 ## Profiles
 
