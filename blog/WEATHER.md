@@ -43,3 +43,5 @@ The effects of what we do today aren't known. Some may find solace in that, othe
 * Can you separate the Signal from the Noise? Can you see what's relevant, but more importantly, let go the data that is not?
 
 Reality is a complex place: weather, software, news very little of it makes sense in the moment. But, like most things, looking back, it's the only thing that could have possibly been.
+
+[Home](../index.md)
