@@ -1,4 +1,4 @@
-# A Post Commit Git Hook for Semantic Version Updates, Docker build, tag, and Push
+# A Post Commit Git Hook for Semantic Version Updates, Docker Build, Tag, and Push
 
 ![post](../images/POSTCOMMIT.png)
 
