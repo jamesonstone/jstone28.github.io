@@ -4,9 +4,9 @@
 
 [A Post Commit Git Hook for Semantic Version Updates, Docker Build, Tag, and Push](post-commit-semver.md)
 
-[What an IHOP Can Teach About Team Dynamics](ihop.md)
+[What an IHOP Can Teach About Team Dynamics](i-hop.md)
 
-[What Weather Forecasts Tell Us About Progress and Technology](weather.md)
+[What Weather Forecasts Tell Us About Progress and Technology](weather-pre.md)
 
 ### Previous Work
 
