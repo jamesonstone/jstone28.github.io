@@ -1,5 +1,7 @@
 ## Table of Contents
 
+[Why Management Structures Dictate Software Architecture](manage-struct.md)
+
 [A Semantic Versioning Function for the Makefile](makefile-semver.md)
 
 [A Post Commit Git Hook for Semantic Version Updates, Docker Build, Tag, and Push](post-commit-semver.md)
