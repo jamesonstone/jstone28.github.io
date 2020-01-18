@@ -1,5 +1,7 @@
 # A Post Commit Git Hook for Semantic Version Updates, Docker build, tag, and Push
 
+![post](../images/POSTCOMMIT.png)
+
 In our next installment, we're going to pick up a semantic version, docker build, tag, push off the cutting room floor. This small function runs as a *post-commit*, that is the function that runs after the commit has been accepted. In the life cycle of git hooks, it runs after the pre-commit hook but before the pre-push.
 
 ```bash
