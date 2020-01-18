@@ -1,5 +1,7 @@
 # Why Management Structures Dictate Software Architecture
 
+![structure](../images/MANAGE_STRUCT.png)
+
 [Conway's Law](https://en.wikipedia.org/wiki/Conway%27s_law) a perennial favorite for being quoted around the office defines how software architecture tends towards the communication (and by extension, the management structure) of the organization
 
 > [...] organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.
