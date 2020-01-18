@@ -6,6 +6,8 @@
 
 [A Semantic Versioning Function for the Makefile](MAKEFILE_SEMVER.md)
 
+[A Post Commit Git Hook for Semantic Version Updates, Docker build, tag, and Push](POSTCOMMIT_SEMVER.md)
+
 ### Previous Work
 
 [CI/CD: An Analogy](https://sailr.co/blog/ci-cd-analogy/)
