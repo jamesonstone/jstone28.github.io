@@ -13,6 +13,3 @@
 ### Previous Work
 
 [CI/CD: An Analogy](https://sailr.co/blog/ci-cd-analogy/)
-
-***
-[Home](../index.md)

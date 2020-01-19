@@ -129,5 +129,3 @@ To Sum up We've done the following:
 * docker push the newly built and tagged version to the remote registry
 
 That was a lot but I hope it was helpful. I think I have one more iteration of this change from a different approach. I may add that one next. /J
-
-[Home](../index.md)

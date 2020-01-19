@@ -25,5 +25,3 @@ At the top of our management hierarchy, we had two leaders who weren't cooperati
 When I stood back, a year after the project had been in maintenance, I could have easily drawn you a map of the command structure just based on how the application worked.
 
 I was almost depressed when acknowledging that fact lo those many years ago. And the fact that I still see teams making this same mistake today. It's like the realization you have when you realize "Peopleware" was written in 1987 but everything it outlines still exists today, some 33 years later. /J
-
-[Home](../index.md)

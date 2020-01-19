@@ -69,5 +69,3 @@ make increment-version SEMVER=major
 The `VERSION` file will read `2.0.0`
 
 I hope this snippet is useful to someone. I didn't spend too much time putting it together but it's, at least, the 10th time I've written something like this. /J
-
-[Home](../index.md)
