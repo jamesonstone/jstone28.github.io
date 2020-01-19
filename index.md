@@ -4,6 +4,14 @@ Current [Blog](blog/index.md)
 
 ## Projects
 
+[orpheus](https://gitlab.com/sailr/opensource/orpheus)
+
+*Portable Storage With Git.*
+
+[ack](https://gitlab.com/sailr/opensource/ack)
+
+*A Chatbot to Handle Everything Between Dev and Ops.*
+
 [jib](https://gitlab.com/sailr/opensource/jib)
 
 *A quick way for programmatically creating Kubernetes manifests with Kustomize*
@@ -35,10 +43,6 @@ Current [Blog](blog/index.md)
 [kit](https://gitlab.com/sailr/opensource/kit)
 
 *Portable CI/CD Implementation*
-
-[orpheus](https://gitlab.com/sailr/opensource/orpheus)
-
-*Portable Storage With Git.*
 
 ## Profiles
 
