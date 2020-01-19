@@ -1,6 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
+    <style>
+      .footer {
+         position: fixed;
+         left: 0;
+         bottom: 0;
+         width: 100%;
+         background-color: black;
+         color: greenyellow;
+         text-align: center;
+      }
+      </style>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,11 +24,10 @@
 
     <header>
       <div class="container">
-        <a id="a-title" href="{{ 'https://axiomatic.dev/' }}">
+        <a id="a-title" href="{{ '/' | relative_url }}">
           <h1>{{ site.title | default: site.github.repository_name }}</h1>
         </a>
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
       </div>
     </header>
 
@@ -25,6 +35,10 @@
       <section id="main_content">
         {{ content }}
       </section>
+    </div>
+
+    <div class="footer">
+      <p>Footer</p>
     </div>
 
     {% if site.google_analytics %}
