@@ -1,5 +1,7 @@
 ## Table of Contents
 
+[Change Data Capture with Debezium, Kafka, Postgres, and Golang](debezium.md)
+
 [Why Management Structures Dictate Software Architecture](manage-struct.md)
 
 [A Semantic Versioning Function for the Makefile](makefile-semver.md)
