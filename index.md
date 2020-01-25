@@ -4,6 +4,11 @@ Current [Blog](blog/index.md)
 
 ## Projects
 
+[opportunity-rover](https://gitlab.com/jstone28/opportunity-rover) (producer) //
+[curiosity-rover](https://gitlab.com/jstone28/curiosity-rover) (consumer)
+
+*End to end Debezium database management (active migration)*
+
 [orpheus](https://gitlab.com/sailr/opensource/orpheus)
 
 *Portable Storage With Git.*
