@@ -1,5 +1,7 @@
 ## Table of Contents
 
+[On Team Chat Channels in Slack](team-slack.md)
+
 [Change Data Capture with Debezium, Kafka, Postgres, and Golang](debezium.md)
 
 [Why Management Structures Dictate Software Architecture](manage-struct.md)
