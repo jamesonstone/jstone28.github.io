@@ -1,8 +1,12 @@
 ## Blogs
 
-Current [Blog](blog/index.md): a tawdry assembly of first drafts. 
+Current [Blog](blog/index.md): a tawdry assembly of first drafts.
 
 ## Projects
+
+[polymer](https://gitlab.com/jstone28/polymer)
+
+*An adhesive layer between a system generating events and Kafka*
 
 [opportunity-rover](https://gitlab.com/jstone28/opportunity-rover) (producer) //
 [curiosity-rover](https://gitlab.com/jstone28/curiosity-rover) (consumer)
