@@ -1,5 +1,7 @@
 ## Table of Contents
 
+[Docker Compose, Kotlin, and Kafka: Why Can't I Connect](compose-kafka.md)
+
 [On Team Chat Channels in Slack](team-slack.md)
 
 [Change Data Capture with Debezium, Kafka, Postgres, and Golang](debezium.md)

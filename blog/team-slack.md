@@ -4,7 +4,6 @@
 
 Photo by Pankaj Patel on Unsplash
 
-
 I had a conversation in a live meeting that triggered a Proustian moment of a team long left in the past. The conversation was specifically in regards to the purpose of Team Channels in Slack. And, the Proustian moment was one of forgotten fortune...
 
 Early in my career I joined a start up, and boy was I lucky to join this start up in particular, because this team was young, motivated, and talented. I credit the experience for advancing my career a decade in three years. The team itself was so gung-ho because, well, we didn't know any better. We were all at the stage in life where work was the most important thing. Many of us just having finished college (or, in my case, still wrapping it up). The entire team was co-located so we did a large portion of our speaking in the trenches together, however, off hours, as few and far between as they were, brought more communication in the form of IRC and, eventually, Hipchat.
