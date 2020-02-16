@@ -6,7 +6,7 @@ Current [Blog](blog/index.md): a tawdry assembly of first drafts.
 
 [polymer](https://gitlab.com/jstone28/polymer)
 
-*An adhesive layer between a system generating events and Kafka*
+*An adhesive layer between a system generating events and Kafka written in Kotlin*
 
 [opportunity-rover](https://gitlab.com/jstone28/opportunity-rover) (producer) //
 [curiosity-rover](https://gitlab.com/jstone28/curiosity-rover) (consumer)
