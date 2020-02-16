@@ -1,6 +1,6 @@
 ## Blogs
 
-Current [Blog](blog/index.md): a tawdry assembly of first drafts.
+[Current Blog](blog/index.md): a tawdry assembly of first drafts.
 
 ## Projects
 
