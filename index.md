@@ -4,6 +4,10 @@
 
 ## Projects
 
+[project-aurora](https://gitlab.com/sailr/opensource/project-aurora)
+
+*Handling Everything Between Dev and Ops, Serverless-ly with Kubeless*
+
 [polymer](https://gitlab.com/jstone28/polymer)
 
 *An adhesive layer between a system generating events and Kafka written in Kotlin*

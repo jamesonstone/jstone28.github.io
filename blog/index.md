@@ -1,5 +1,7 @@
 ## Table of Contents
 
+[Installing and Configuring the Kubernetes Dashboard with Kind](k8s-dashboard.md)
+
 [Docker Compose, Kotlin, and Kafka: Why Can't I Connect](compose-kafka.md)
 
 [On Team Chat Channels in Slack](team-slack.md)

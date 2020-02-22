@@ -1,5 +1,7 @@
 # Docker Compose, Kotlin, and Kafka: Why Can't I Connect
 
+![Photo by Clint Adair on Unsplash](../images/compose-kafka-connect.png)
+
 Building a simple docker-compose environment to test docker environments is the bread and butter of application development. It's usually the first step in unifying development amongst a team of engineers. This week, I had to do just this very thing for a PoC I was developing. [Polymer](https://gitlab.com/jstone28/polymer) was the outcome of the effort.
 
 The general idea behind the PoC is creating a "translation layer" between an application firing events ([instrumentation](https://gitlab.com/jstone28/instrumentation)) and an instance of kafka running a consumer watching a single topic. A visual representation of this architecture looks like this:
