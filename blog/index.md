@@ -1,6 +1,6 @@
 ## Table of Contents
 
-[Installing and Configuring the Kubernetes Dashboard with Kind](k8s-dashboard.md)
+[Installing and Configuring the Kubernetes Dashboard with Kind](pt1-k8s-dashboard.md)
 
 [Docker Compose, Kotlin, and Kafka: Why Can't I Connect](compose-kafka.md)
 
