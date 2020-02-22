@@ -421,4 +421,4 @@ From here we can mess with Kuard's features to simulate different use cases with
 
 ## Conclusion
 
-We'll follow up in Pt 2 Configuring the dashboard.
+We'll follow up in [Part 2](pt2-k8s-dashboard.md) configuring the dashboard.
