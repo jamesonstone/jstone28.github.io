@@ -2,6 +2,10 @@
 
 [Current Blog](blog/index.md): a tawdry assembly of first drafts.
 
+## Painting
+
+[Available Paintings](paintings/index.md)
+
 ## Projects
 
 [project-aurora](https://gitlab.com/sailr/opensource/project-aurora)

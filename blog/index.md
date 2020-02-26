@@ -1,5 +1,7 @@
 ## Table of Contents
 
+[Getting Started with Kubeless](kubeless.md)
+
 [Installing and Configuring the Kubernetes Dashboard with Kind - Part 2](pt2-k8s-dashboard.md)
 
 [Installing and Configuring the Kubernetes Dashboard with Kind - Part 1](pt1-k8s-dashboard.md)
