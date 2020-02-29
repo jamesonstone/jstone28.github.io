@@ -4,7 +4,7 @@
 
 ## Painting
 
-[Available Paintings](paintings/index.md)
+[Paintings](paintings/index.md): an exploration in meaning.
 
 ## Projects
 
