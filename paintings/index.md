@@ -6,4 +6,4 @@ All paintings listed here are available. For more information, you can contact m
 
 [Continuity of Complexity](continuity.md)
 
-[The Light That Beckons]()
+[The Light That Beckons](thelightthat.md)
