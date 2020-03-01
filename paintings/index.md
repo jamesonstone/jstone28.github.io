@@ -5,3 +5,5 @@ All paintings listed here are available. For more information, you can contact m
 [A Mote of Dust Suspended in a Sunbeam](./amoteofdust.md)
 
 [Continuity of Complexity](continuity.md)
+
+[The Light That Beckons]()
