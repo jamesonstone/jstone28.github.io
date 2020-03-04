@@ -1,5 +1,7 @@
 ## Table of Contents
 
+[Getting Started Avro Schema and Debezium](avro-schema.md)
+
 [Creating a Kafka Consumer with Kafka, Kotlin, PostgreSQL, and Debezium](kotlinconsumer.md)
 
 [Getting Started with Kubeless](kubeless.md)
