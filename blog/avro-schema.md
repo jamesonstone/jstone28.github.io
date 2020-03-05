@@ -42,9 +42,42 @@ Let's start by building an avro schema by hand, and then generating the resultin
 
 The [specification](https://avro.apache.org/docs/current/spec.html) provides an excellent resource.
 
-## Automatically Generating the Class
+## Automatically Generating Objects
 
-The upside of defining your schemas upfront, with avro, is that you can benefit from automatic class generation. Let's explore that with the avro schema we defined above: // TODO:
+As someone who does not come from the JVM world, the plugin system and automagical process that author these generated objects are still a mystery to me. I will, one day, dig into the source of the gradle plugin system and the respective avro plugins to track down how this all gets put together but I'll save that for another blog. For now, we can add the following to the `build.gradle.kts` and `settings.gradle.kts` to have access to the generated object at the classpath represented by the namespace and name of record.
+
+For example:
+
+`build.gradle.kts`
+
+```kotlin
+plugins {
+   id("com.commercehub.gradle.plugin.avro") version "0.16.0"
+}
+
+repositories {
+   mavenCentral()
+   maven(url = "https://packages.confluent.io/maven/")
+}
+
+dependencies {
+   implementation("io.confluent:kafka-avro-serializer:5.2.1")
+   implementation("io.confluent:kafka-schema-registry-client:5.3.0")
+   implementation("org.apache.avro:avro:1.8.2")
+}
+```
+
+`settings.gradle.kts`
+
+```kotlin
+pluginManagement {
+    repositories {
+            jcenter()
+            gradlePluginPortal()
+            maven(url = "https://dl.bintray.com/gradle/gradle-plugins")
+    }
+}
+```
 
 ## Streaming Database Changes with Debezium
 
